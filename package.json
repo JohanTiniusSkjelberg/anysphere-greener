@@ -4,6 +4,10 @@
   "description": "Anysphere dark greener theme for vscode",
   "publisher": "johantinius",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohanTiniusSkjelberg/anysphere-greener"
+  },
   "engines": {
     "vscode": "^1.79.0"
   },
