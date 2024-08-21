@@ -1,0 +1,22 @@
+{
+  "name": "anysphere-dark-greener",
+  "displayName": "Anysphere Dark greener",
+  "description": "Anysphere dark greener theme for vscode",
+  "publisher": "johantinius",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Anysphere dark Johan",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Anysphere_dark-color-theme.json"
+      }
+    ]
+  }
+}
